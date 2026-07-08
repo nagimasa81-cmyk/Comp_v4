@@ -1,0 +1,6 @@
+{
+  "app_name": "Complaint Service Hub",
+  "version": "0.4",
+  "build_date": "2026-07-08",
+  "description": "InSightec-style UI, role-based launch pad, global language dropdown, global output mode selector, common Settings, request/template helpers."
+}
